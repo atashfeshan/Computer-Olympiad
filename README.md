@@ -1,7 +1,7 @@
 # Computer-Olympiad
 
-commit format 
-#name;book;hours;minute;
+commit format:
+#name;book;hours;minutes;
 
 #1 mohamad 
 
