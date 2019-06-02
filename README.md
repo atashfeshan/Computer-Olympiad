@@ -1,11 +1,7 @@
 # Computer-Olympiad
 
 commit format 
-
-book : Hours of study
-
-add #n name in each commit 
-for example : 
+#name;book;hours;minute;
 
 #1 mohamad 
 
